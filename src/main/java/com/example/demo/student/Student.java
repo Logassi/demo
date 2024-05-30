@@ -1,9 +1,6 @@
 package com.example.demo.student;
 
 import jakarta.persistence.*;
-import org.springframework.cglib.core.Local;
-
-import java.lang.reflect.Constructor;
 import java.time.LocalDate;
 import java.time.Period;
 
